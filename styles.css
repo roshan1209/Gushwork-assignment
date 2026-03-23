@@ -278,6 +278,7 @@ ul { list-style: none; }
   .faq { padding: 100px 0; }
   .process { padding: 100px; }
   .catalogue-banner-section { padding: 100px 76px; }
+  .catalogue-banner-section .container { padding: 0; }
   .help-banner-section { padding: 100px 76px; }
   .testimonials { padding: 100px; }
   .portfolio { padding: 100px; }
