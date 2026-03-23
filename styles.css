@@ -282,7 +282,7 @@ ul { list-style: none; }
   .help-banner-section { padding: 100px 76px; }
   .testimonials { padding: 100px; }
   .portfolio { padding: 100px; }
-  .resources { padding: 100px; }
+  .resources { padding: 100px 0; }
   .contact { padding: 100px; }
   .main-footer { padding: 0 !important; }
   .main-footer .container { padding: 100px; }
