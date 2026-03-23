@@ -275,7 +275,7 @@ ul { list-style: none; }
   .hero { padding: 100px; }
   .tech-specs { padding: 100px; }
   .features { padding: 100px; }
-  .faq { padding: 100px; }
+  .faq { padding: 100px 0; }
   .process { padding: 100px; }
   .catalogue-banner-section { padding: 100px 76px; }
   .help-banner-section { padding: 100px 76px; }
@@ -291,8 +291,6 @@ ul { list-style: none; }
 }
 
 @media (max-width: 1440px) {
-  .hero { padding: 100px; }
-  .tech-specs { padding: 100px; }
   .features { padding: 100px; }
   .faq { padding: 100px; }
   .process { padding: 100px; }
